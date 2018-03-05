@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 import org.json.JSONObject;
-
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
